@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/back-api/back-api.iml" filepath="$PROJECT_DIR$/back-api/back-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-line/back-line.iml" filepath="$PROJECT_DIR$/back-line/back-line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-send/back-send.iml" filepath="$PROJECT_DIR$/back-send/back-send.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-user/back-user.iml" filepath="$PROJECT_DIR$/back-user/back-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ship-back.iml" filepath="$PROJECT_DIR$/ship-back.iml" />
+    </modules>
+  </component>
+</project>
